@@ -42,7 +42,7 @@ If removing a user is urgent, you can view the user information, and then click 
 access to the system for that particular user.
 
 <p align="center">
-    <img width="269" height="267" src="/images/lock-user-out.png">
+    <img width="269" height="267" src="images/lock-user-out.png">
 </p>
 
 
