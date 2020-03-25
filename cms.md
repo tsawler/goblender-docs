@@ -5,9 +5,9 @@
 GoBlender comes with an easy to use, drag & drop content management system (CMS). All site content, including pages, blogs, news, and calender
 events use the same content management system.
 
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: bold;">
-Note: In order to be able to use the content management system, your system administrator must have assigned you
-the necessary roles. If you do not have the needed role, you will not have the option to use the CMS.
+<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Note</b>: In order to be able to use the content management system, your system administrator must have assigned you
+	the necessary roles. If you do not have the needed role, you will not have the option to use the CMS.
 </div>
 
 
@@ -15,6 +15,11 @@ Regardless as to what you are editing, the process is almost exactly the same.
 
 
 ## Making Content Editable
+
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Note</b>: For all of the editing functions described below, to save your work you must click on <b>Save</b> at the bottom of the screen. To cancel,
+	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editng, click on <b>Delete</b>.
+</div>
 
 In order to edit a page, news item, or blog post, simply follow these steps to enable the CMS:
 
@@ -32,6 +37,11 @@ or to use a saved template to make creating a new page a snap. These are discuss
 
 In order to make managing your content as simple as possible, every page, blog post, and news item consists of **at least the following**: One section
 and one snippet. In other words, **every section has at least one snippet, and every page has at least one section**.
+
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Remember</b>: Every page must have at least one section, and every section must have at least one snippet. If you don't have a section on a page
+	and you try to add a snippet, you will not be able to do so!
+</div>
 
 ### Working with Sections
 
@@ -60,10 +70,10 @@ Specifically, you can:
 The other icon, **Cover Settings**, allows you to set a background image for the section. Clicking on the **Cover Settings** icon allows you to 
 browse your system for an image to use as a background for the current section.
 
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: bold;">
-Note: Although GoBlender will do its best to process whatever image you choose to use as a background to make it web friendly,
-use caution when choosing an image. For best results, choose an image that is at least 1200 pixels wide, and set to 72dpi. JPEG images are
-also usually much smaller than PNG images. If you put up a huge image, your page will load slowly, and you will have unhappy visitors!
+<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Note</b>: Although GoBlender will do its best to process whatever image you choose to use as a background to make it web friendly,
+	use caution when choosing an image. For best results, choose an image that is at least 1200 pixels wide, and set to 72dpi. JPEG images are
+	also usually much smaller than PNG images. If you put up a huge image, your page will load slowly, and you will have unhappy visitors!
 </div>
 
 ### Moving Sections Around
@@ -86,8 +96,8 @@ icon, or uncheck to get rid of it.
 While the pre-defined page sections are useful, in most cases you will want more control over the content of a page, and how it is presented
 to visitors. That's where snippets come in.
 
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: bold;">
-Remember: snippets do not live on the page by themselves! Every snippet must go into a section!
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	Remember: snippets do not live on the page by themselves! Every snippet must go into a section!
 </div>
 
 Snippets are found by clicking on the second icon from the top of the **Content Strip** on the left side of the screen (it looks like two
@@ -144,13 +154,13 @@ A dialog box will appear asking you to name the template. Give it a meaningful n
 
 ## Using Page Templates
 
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: bold;">
-Warning: choosing a saved template will completely replace the current page with the template! If you didn't want to do this,
-click Cancel at the bottom of the screen!
+<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Warning</b>: choosing a saved template will completely replace the current page with the template! If you didn't want to do this,
+	click Cancel at the bottom of the screen!
 </div>
 
 Saved templates can be used on site pages, blog posts, or news items. To use a template, first either create a new page, or edit an existing one.
-To use the template, clickc on the "Page" icon in the **Content Strip** (it's the third one from the top). A panel will slide out from the 
+To use the template, click on the "Page" icon in the **Content Strip** (it's the third one from the top). A panel will slide out from the 
 left of the screen displaying your saved templates.
 
 Click on the template that you want to use, and click okay in the confimration dialog that appears.

@@ -11,8 +11,8 @@ you would visit https://www.mysite.com/user/login
 Enter your email address and password, and optionally have the site "remember" your login so that you remain logged in until
 you manually log out. 
 
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: center; font-weight: bold;">
-Note: Do not enable "remember me" on public systems, or systems that you share with others.
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Note</b>: Do not enable "remember me" on public systems, or systems that you share with others.
 </div>
 
 ## Logging in with Two Factor Auth
@@ -31,7 +31,7 @@ In addition, many password management applicatons, such as 1Password and BitWard
 ## Social Media Accounts
 
 If your system administrator has enabled logging in through social media, then you can log in by clicking on the appropriate button
-on the login page. Currently support social media logins are limited to:
+on the login page. Currently, supported social media logins are limited to:
 
 * Google
 * Facebook
