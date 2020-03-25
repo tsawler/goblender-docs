@@ -45,8 +45,18 @@ safely delete the old post.
 
 Just below the title section of the **Edit Panel** you'll see a light grey square, and below that is a button labelled **Preview Image**. This allows you to specify what preview image you would like to use for the blog post. The image is used on the `/blog` page of the site, where blog posts are listed.
 
-In order to specify a specific preview image, click the button, browse for the image, and upload it. It will auotmatically be convereted to the proper
+In order to specify a specific preview image, click the button, browse for the image, and upload it. It will auotmatically be converted to the proper
 size for you.
+
+## Preview Text
+
+Just as you can specify what image is used on the `/blog` page for previewing a post, you can also specify the preview text. If this is left empty,
+the first few hundred characters of the blog post will be used instead. Just click on the button to enter or modify the preview text.
+
+## Blog Tags
+
+It is customary to "tag" blog posts with keywords, such as `#newproduct`, `#special`, and so forth. Just enter whatever tags you wish, separated by commas, and
+the blog post will be tagged accordingly.
 
 ## Meta Keywords
 
@@ -80,7 +90,18 @@ You will also see tags like this:
 These are [Open Graph](https://ogp.me/) tags, which are used by many popular social media sites. As you can see, the title is taken from the **Page Title** section of
 the page's **Edit Panel**, and the description is taken from **Meta Description**.
 
-## Page Status
+
+## Post Date
+
+Set the date for your post by clicking on this field and choosing a date from the calendar.
+
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+	<b>Note</b>: If you set the date in the future, the blog post will not show up until that date!
+</div>
+
+
+
+## Post Status
 
 Almost any page on the site can be set to Active or Inactive, except for the home page, which must, for obvious reasons, always be active.
 
@@ -97,39 +118,9 @@ Almost any page on the site can be given an access level, except for the home pa
 
 There are three possible access levels:
 
-1. Public - the page can be accessed by anyone
-2. Account Required - the page can only be accessed by users who have an acccount, and are currently logged in
-3. Administrators Only - only logged in users who are site administrators can see the page
-
-
-## Slider
-
-Pages can have custom sliders which consist of images or video.
-
-In order to enable a slider for any page of the site, simply select "Yes" from the drop down menu labelled **Slider?** and a new button will appear below it,
-labelled **Manage Slider.**
-
-Clicking on the Manage Slider button will open the slider management dialog. 
-
-A newly created slider will have no slides. To add an image to the slider, click on the **Choose File** button and browser for a slider image, and then
-click on the upload button to the right of the browse button. Your image will be uploaded to the server, and converted to several different versions (one for
-phones, one for tablets, one for normal computers, and one for very large screens).
-
-<div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
-	<b>Warning</b>: If you attempt to upload an image that is too small, GoBlender will refuse to accept it, and tell you the minimum requirements
-	for slider images for your system.
-</div>
-
-You can have as many images as you like in your slider, but should probably limit it to no more than four or five, so as to keep the page speed
-as fast as possible.
-
-Every slide you add will appear at the top of the slider management dialog. You can **drag the slides** to reorder them.
-
-Of course, slides can be more than just pictures; you can add text and buttons to them as well. To do so, once you have a slide uploaded just click
-on the **pencil** icon underneath its thumbnail, and enter whatever you wish for text, buttons, and so forth.
-
-To delete a slide, click on the trash can icon underneath its thumbnail. If, however, you think that you will use the slide again in the future, you
-can just make it inactive by clicking on the **pencil** icon, and choosing the appropriate value from the drop down menu.
+1. Public - the post can be accessed by anyone
+2. Account Required - the post can only be accessed by users who have an acccount, and are currently logged in
+3. Administrators Only - only logged in users who are site administrators can see the post
 
 
 ## Menu Settings
