@@ -4,5 +4,6 @@
 * [**Pages**](pages.md)
 * [**Blog Posts**](blog.md)
 * [**News**](news.md)
+* [**Gallery**](gallery.md)
 * [**Users**](users.md)
 * [**Preferences**](prefs.md)
