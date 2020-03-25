@@ -150,7 +150,7 @@ you can set the menu to transparent, and the menu text to dark.
 
 Sharing a post on social media is easy enough, but sometimes social media sites will not choose the image you want as a preview when the post is shared.
 By clicking on the **Sharing Image** button, you can specify what image will be used when your post is shared on social media. The image must be at least
-1200 pixels wide and 1080 pixels tall. It will be convereted to the correct dimensions for sharing on major social media sites.
+1200 pixels wide and 1080 pixels tall. It will be converted to the correct dimensions for sharing on major social media sites.
 
 If you set the sharing image, save the post, and then view source on your post, somewhere near the top you'll see tags like the ones below:
 
