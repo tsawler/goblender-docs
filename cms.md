@@ -28,21 +28,14 @@ In order to edit a page, news item, or blog post, simply follow these steps to e
 1. Roll your mouse over the "wrench" icon, in the far right of the navigation bar at the top of the page, and click on it.
 1. Choose "Edit Page" from the drop down menu that appears (**Note**: this will say "Edit Post" for blog posts, and "Edit News Item" for news items).
 
-<p align="center">
-    <img src="images/wrench.png"><br>
-    <em>The Wrench Menu</em>
-</p>
+![image](images/wrench.png)
 
 Once you follow these three steps, the page will become editable.
 
 A new menu appears along the **left side of the screen**. This is the **Content Strip** which you use to insert sections or snippets into the page,
 or to use a saved template to make creating a new page a snap. These are discussed in more detail below.
 
-<p align="center">
-    <img src="images/content-strip.png"><br>
-    <em>The Content Strip</em>
-</p>
-
+![image](images/content-strip.png)
 
 ## Sections & Snippets
 
@@ -66,19 +59,14 @@ When you find one you like, just click or tap to choose it, and the section will
 The pre-built sections are probably not exactly what you want. Fortunately, you have complete control over every section. To change a section,
 simply roll your mouse over it, and you will notice two icons that appear at the bottom of the section, in the middle: An image icon, and a wrench.
 
-<p align="center">
-    <img src="images/section-icons.png"><br>
-    <em>Cover and Box settings icons</em>
-</p>
+
+![image](images/section-icons.png)
 
 These are the **Cover Settings**  and **Box Settings** for the current section. Click on the wrench, and the **Box Settings** dialog will appear. This gives youi all the tools you need to
 customize many features for the current section.
 
-<p align="center">
-    <img src="images/box-settings.png" style="outline: 1px solid silver;"><br>
-    <em>The Box Settings dialog</em>
-</p>
 
+![image](images/box-settings.png)
 
 
 Specifically, you can:
@@ -108,10 +96,9 @@ To move a section, make sure you are **editing the page**, and roll your mouse o
 you will see two icons: a **blue wrench**, which opens the **Section Settings Dialog**, and a **red x**, which allows you to delete the section
 if you decide that you don't want it on your page.
 
-<p align="center">
-    <img src="images/section-settings.png"><br>
-    <em>Section Settings dialog</em>
-</p>
+
+![image](images/section-settings.png)
+
 
 
 To move a section, click on the **blue wrench**, and the **Section Settings Dialog** appears. To move a section around, use the arrows at the top of

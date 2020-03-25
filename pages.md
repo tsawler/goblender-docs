@@ -13,8 +13,12 @@ Whenever you create an new page or edit an existing one, the screen will change 
 saw in the [Content Management System](/#/content-management-system) section, you get a **Content Strip** along the left, and some **buttons**
 (save, cancel, etc.)along the bottom. You will also notice a new button along the right hand side of the screen: a light grey box with a "<" symbol.
 
+![image](images/page-detail-opener.png)
+
 If you click on this button, called the **Edit Panel**, a pane will slide out from the right, revealing the basic page details. Here is where you can
 do the following:
+
+![image](images/page-details.png)
 
 ## Set the page name
 
@@ -103,6 +107,9 @@ labelled **Manage Slider.**
 
 Clicking on the Manage Slider button will open the slider management dialog.
 
+![image](images/slider-dialog.png)
+
+
 A newly created slider will have no slides. To add an image to the slider, click on the **Choose File** button and browser for a slider image, and then
 click on the upload button to the right of the browse button. Your image will be uploaded to the server, and converted to several different versions (one for
 phones, one for tablets, one for normal computers, and one for very large screens).
@@ -119,6 +126,8 @@ Every slide you add will appear at the top of the slider management dialog. You 
 
 Of course, slides can be more than just pictures; you can add text and buttons to them as well. To do so, once you have a slide uploaded just click
 on the **pencil** icon underneath its thumbnail, and enter whatever you wish for text, buttons, and so forth.
+
+![image](images/edit-slide.png)
 
 To delete a slide, click on the trash can icon underneath its thumbnail. If, however, you think that you will use the slide again in the future, you
 can just make it inactive by clicking on the **pencil** icon, and choosing the appropriate value from the drop down menu.
