@@ -66,8 +66,20 @@ When you find one you like, just click or tap to choose it, and the section will
 The pre-built sections are probably not exactly what you want. Fortunately, you have complete control over every section. To change a section,
 simply roll your mouse over it, and you will notice two icons that appear at the bottom of the section, in the middle: An image icon, and a wrench.
 
-These are the **Cover Settings**  and **Box Settings** for the current section. Click on the wrench, and you will have all the tools you need to
+<p align="center">
+    <img src="images/section-icons.png"><br>
+    <em>Cover and Box settings icons</em>
+</p>
+
+These are the **Cover Settings**  and **Box Settings** for the current section. Click on the wrench, and the **Box Settings** dialog will appear. This gives youi all the tools you need to
 customize many features for the current section.
+
+<p align="center">
+    <img src="images/box-settings.png" style="outline: 1px solid silver;"><br>
+    <em>The Box Settings dialog</em>
+</p>
+
+
 
 Specifically, you can:
 
@@ -95,6 +107,12 @@ to move sections around in GoBlender.
 To move a section, make sure you are **editing the page**, and roll your mouse over the section you want to move. On the **far right** of the screen
 you will see two icons: a **blue wrench**, which opens the **Section Settings Dialog**, and a **red x**, which allows you to delete the section
 if you decide that you don't want it on your page.
+
+<p align="center">
+    <img src="images/section-settings.png"><br>
+    <em>Section Settings dialog</em>
+</p>
+
 
 To move a section, click on the **blue wrench**, and the **Section Settings Dialog** appears. To move a section around, use the arrows at the top of
 the dialog. To change the veritical size of the section, use the buttons in the middle. If your section is very tall, you may wish to enable
