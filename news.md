@@ -125,7 +125,7 @@ by accessing the menu settings dialog by clicking on the **Menu Settings** butto
 1. Menu Text: this can be dark or light.
 2. Menu Type: this can be normal (the default for your site, usually a light background), or Transparent, which makes the menubar background transparent.
 
-So, if have a dark image at the top of the page (or a section with a dark background color), and you want the menu to blend into the top of the page,
+So, if you have a dark image at the top of the page (or a section with a dark background color), and you want the menu to blend into the top of the page,
 you can set the menu to transparent, and the menu text to dark.
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
