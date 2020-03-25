@@ -26,7 +26,7 @@ There are many tools available to manage two-factor authentication, including:
 * Microsoft Authenticator ([iPhone](https://apps.apple.com/us/app/microsoft-authenticator/id983156458), [Android](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_IN))
 * Authy ([iPhone](https://apps.apple.com/in/app/authy/id494168017), [Android](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_IN))
 
-In addition, many password management applicatons, such as 1Password and BitWarden offer support for two-factor authentication.
+In addition, many password management applicatons, such as [1Password](https://1password.com/) and [BitWarden](https://bitwarden.com/) offer support for two-factor authentication.
 
 ## Social Media Accounts
 
