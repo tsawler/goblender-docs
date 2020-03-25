@@ -18,6 +18,10 @@ in the search box on the top right of the table.
 
 To view or manage a specific user, click on the user's last name, and you will be taken to the Admin User screen. From here, you can edit whatever information you wish about the user, and turn specific roles on or off.
 
+<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+    <b>Note</b>: If a users accesses the system through social media login, you cannot change his or her password, since the password is managed by whatever social media login he or she is using.
+</div>
+
 Be sure to save your changes.
 
 
@@ -36,3 +40,10 @@ Because the audit trail built into GoBlender depends on user information, you ca
 
 If removing a user is urgent, you can view the user information, and then click on the red **Log this user out and set inactive**, which will immediately (even if the user is currently logged in) remove all
 access to the system for that particular user.
+
+<p align="center">
+    <img width="269" height="267" src="/images/lock-user-out.png">
+</p>
+
+
+Note that you cannot, for obvious reasons, lock yourself out of the system, so the button to do so **does not appear** when you are looking at **your own account**.

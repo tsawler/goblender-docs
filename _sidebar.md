@@ -9,6 +9,7 @@
 	* <a href="/#/cms?id=sections-amp-snippets">Sections & Snippets</a>
 	* <a href="/#/cms?id=using-page-templates">Saving Page Templates</a>
 	* <a href="/#/cms?id=saving-page-templates">Using Page Templates</a>
+	* <a href="/#/cms?id=modifying-html">Modifying HTML</a>
 * <a href="/#/pages?id=working-with-pages"><strong>Pages</strong></a>
 	* <a href="/#/pages?id=set-the-page-name">Setting the Page Name</a>
 	* <a href="/#/pages?id=meta-keywords">Meta Keywords</a>

@@ -29,7 +29,7 @@ In order to edit a page, news item, or blog post, simply follow these steps to e
 
 Once you follow these three steps, the page will become editable.
 
-A new menu appears along the **left side of the screen**. This is the **Content Strip** which you use to insert sections or snippets into the page, 
+A new menu appears along the **left side of the screen**. This is the **Content Strip** which you use to insert sections or snippets into the page,
 or to use a saved template to make creating a new page a snap. These are discussed in more detail below.
 
 
@@ -53,9 +53,9 @@ the section to the page).
 When you find one you like, just click or tap to choose it, and the section will be added to the **bottom of the current page**.
 
 The pre-built sections are probably not exactly what you want. Fortunately, you have complete control over every section. To change a section,
-simply roll your mouse over it, and you will notice two icons that appear at the bottom of the section, in the middle: An image icon, and a wrench. 
+simply roll your mouse over it, and you will notice two icons that appear at the bottom of the section, in the middle: An image icon, and a wrench.
 
-These are the **Cover Settings**  and **Box Settings** for the current section. Click on the wrench, and you will have all the tools you need to 
+These are the **Cover Settings**  and **Box Settings** for the current section. Click on the wrench, and you will have all the tools you need to
 customize many features for the current section.
 
 Specifically, you can:
@@ -67,7 +67,7 @@ Specifically, you can:
 * Make the text light or dark
 * Manage transparency levels
 
-The other icon, **Cover Settings**, allows you to set a background image for the section. Clicking on the **Cover Settings** icon allows you to 
+The other icon, **Cover Settings**, allows you to set a background image for the section. Clicking on the **Cover Settings** icon allows you to
 browse your system for an image to use as a background for the current section.
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
@@ -78,7 +78,7 @@ browse your system for an image to use as a background for the current section.
 
 ### Moving Sections Around
 
-When you add a section to a page, it is added at the bottom. In most cases, that is not where you want it to go. Fortunately, it is easy 
+When you add a section to a page, it is added at the bottom. In most cases, that is not where you want it to go. Fortunately, it is easy
 to move sections around in GoBlender.
 
 To move a section, make sure you are **editing the page**, and roll your mouse over the section you want to move. On the **far right** of the screen
@@ -119,12 +119,12 @@ You can change text color, font, size, etc. just as you would in a word processo
 #### Changing images in a snippet
 
 Many snippets have placeholder images that you can replace with your own images. Doing so is easy. Just click on the image you want to change,
-and several icons will appear at the top of the image, in the center: 
+and several icons will appear at the top of the image, in the center:
 1. an image icon: use this for quick, one time changes. Just click on it and browse your computer for the image you want to use.
 2. a link icon: in most cases, **this is the way you should change your images**. Clicking on the link will pop up a dialog, where you can set
-the title for the image (used by screen-readers for the visually impaired, and to let search engines know something about the image so that it 
-will be indexed properly by Google, Bing, etc.); you can link the image to somewhere else by filling out the "Link" box; and you will notice  **three dots** to the right of the file box at the top of the dialog. This links to the **image manager**, which 
-makes it simple to upload images to the server for use anywhere on your site. 
+the title for the image (used by screen-readers for the visually impaired, and to let search engines know something about the image so that it
+will be indexed properly by Google, Bing, etc.); you can link the image to somewhere else by filling out the "Link" box; and you will notice  **three dots** to the right of the file box at the top of the dialog. This links to the **image manager**, which
+makes it simple to upload images to the server for use anywhere on your site.
 3. a pencil icon: this allows you to quickly and easily crop your images to standard image sizes.
 
 #### Putting files (like PDFs) on your site
@@ -149,7 +149,7 @@ to create a these pages using Sections and Snippets, you can also build specific
 
 To create a template, first create a new page by going to the wrench menu and choosing **Add Page**.
 
-Next, build the page the way you want it to look. When you have it ready, just click on "Save Template" button in the bottom right. 
+Next, build the page the way you want it to look. When you have it ready, just click on "Save Template" button in the bottom right.
 A dialog box will appear asking you to name the template. Give it a meaningful name, and click save. You have saved your template.
 
 ## Using Page Templates
@@ -160,12 +160,22 @@ A dialog box will appear asking you to name the template. Give it a meaningful n
 </div>
 
 Saved templates can be used on site pages, blog posts, or news items. To use a template, first either create a new page, or edit an existing one.
-To use the template, click on the "Page" icon in the **Content Strip** (it's the third one from the top). A panel will slide out from the 
+To use the template, click on the "Page" icon in the **Content Strip** (it's the third one from the top). A panel will slide out from the
 left of the screen displaying your saved templates.
 
 Click on the template that you want to use, and click okay in the confimration dialog that appears.
 
 Your page is now replaced with the selected template.
 
+## Modifying HTML
 
+If you have the necessary permissions to do so, and you are comfortable editing HTML directly, you can access the HTML for the full page by
+clicking on the bottom icon on the **Content Strip**. Just click on it, and you will see the full HTML for the current page.
+
+
+If you want to modify the HTML for a given snippet, though, instead of the full page, edit the page (from the **wrench menu**), click in the snippet
+you want to work on, and then click on the yellowish **...** button on the top, or on the right. You can access the snippet's HTML from there.
+
+If you don't see the HTML icon on the **Content Strip** on in the **...** menu, go to your profile page (under the **wrench menu**) and turn on
+the **Enable advanced editing tools** toggle button.
 
