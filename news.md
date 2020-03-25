@@ -25,7 +25,7 @@ URL, using the following logig:
 2. Special characters are removed
 3. Everthing is converted to lower case
 
-This, if you were to name your news item "Company ABC develops a new product: The Miracle Toaster", the automatically generated URL for the news item would be
+So, if you were to name your news item "Company ABC develops a new product: The Miracle Toaster", the automatically generated URL for the news item would be
 `/news-item/company-abc-develops-a-new-product-the-miracle-toaster`. Note that all news items start with `/news-item`, and that this is added automatically.
 You should not make that part of the title.
 

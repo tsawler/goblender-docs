@@ -25,7 +25,7 @@ URL, using the following logig:
 2. Special characters are removed
 3. Everthing is converted to lower case
 
-This, if you were to name your post "Company ABC develops a new product: The Miracle Toaster", the automatically generated URL for the post would be
+So, if you were to name your post "Company ABC develops a new product: The Miracle Toaster", the automatically generated URL for the post would be
 `/post/company-abc-develops-a-new-product-the-miracle-toaster`. Note that all blog posts start with `/post`, and that this is added automatically.
 You should not make that part of the title.
 

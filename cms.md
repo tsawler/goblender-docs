@@ -102,7 +102,7 @@ the "Scroll icon" to let visitors know that there is additional content to be fo
 icon, or uncheck to get rid of it.
 
 
-### Snippets
+### Working With Snippets
 
 While the pre-defined page sections are useful, in most cases you will want more control over the content of a page, and how it is presented
 to visitors. That's where snippets come in.
@@ -149,6 +149,9 @@ To link to a file, just **edit the page**, then follow these steps:
 4. The **File Manager** window will appear. If the file you want is alread there, just click on it. If not, upload it, and then click on it.
 5. Click Okay. Your text is now linked to the file.
 
+### Moving Snippets Around
+
+You can drag a snippet anywhere you wish on the page, as long as it is within a section. To do so, click in the snippet you want to move, and click and drag is using the drag handle that appears on the right of the snippet.
 
 
 ## Saving Page Templates

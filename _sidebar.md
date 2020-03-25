@@ -7,6 +7,10 @@
 	* <a href="#/cms?id=overview">Overview</a>
 	* <a href="#/cms?id=making-content-editable">Editing Content</a>
 	* <a href="#/cms?id=sections-amp-snippets">Sections & Snippets</a>
+		* <a href="#/cms?id=working-with-sections">Working with sections</a>
+		* <a href="#/cms?id=moving-sections-around">Moving Sections</a>
+		* <a href="#/cms?id=working-with-snippets">Working with Snippets</a>
+		* <a href="#/cms?id=moving-snippets-around">Moving Snippets</a>
 	* <a href="#/cms?id=using-page-templates">Saving Page Templates</a>
 	* <a href="#/cms?id=saving-page-templates">Using Page Templates</a>
 	* <a href="#/cms?id=modifying-html">Modifying HTML</a>
