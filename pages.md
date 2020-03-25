@@ -70,7 +70,7 @@ You will also see tags like this:
 ```
 
 These are [Open Graph](https://ogp.me/) tags, which are used by many popular social media sites. As you can see, the title is taken from the **Page Title** section of
-the page's **Edit Panel**, and the description is taken from **Meta Description**.
+the page's **Edit Panel**, and the description is taken from **Meta Description**. These are automatically generated.
 
 ## Page Status
 
