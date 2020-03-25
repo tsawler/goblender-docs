@@ -15,10 +15,11 @@ saw in the [Content Management System](/#/content-management-system) section, yo
 
 ![image](images/page-detail-opener.png)
 
-If you click on this button, called the **Edit Panel**, a pane will slide out from the right, revealing the basic page details. Here is where you can
-do the following:
+If you click on this button, called the **Edit Panel**, a pane will slide out from the right, revealing the basic page details.
 
 ![image](images/page-details.png)
+
+Here is where you can do the following:
 
 ## Set the page name
 

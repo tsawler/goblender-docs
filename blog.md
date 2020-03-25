@@ -21,7 +21,7 @@ do the following:
 
 ## Set the post name
 
-The page name can be whatever you wish, but is limited to 255 characters in length. Whatever you type here will be converted to a web-friendly
+The post name can be whatever you wish, but is limited to 255 characters in length. Whatever you type here will be converted to a web-friendly
 URL, using the following logig:
 
 1. Spaces are converted to dashes
@@ -34,13 +34,13 @@ You should not make that part of the title.
 
 ### Duplicate post names
 
-Sometimes you may give two or more pages the same name, either on purpose or inadvertently. In that case, the generated URL for the page will have a number appended to it, so that there are no duplicate URLs on the site. For example, if you create two posts named "About", the first would have the URL of
+Sometimes you may give two or more posts the same name, either on purpose or inadvertently. In that case, the generated URL for the post will have a number appended to it, so that there are no duplicate URLs on the site. For example, if you create two posts named "About", the first would have the URL of
 `/post/about`, and the second would be given `/post/about-1`. This is an automatic process.
 
 ### Changing the URL of a blog post
 
-Typically, you don't want the URL of a page to change, ever. Thus, once a page is saved, its URL becomes immutable. For example, if you name a post "What's New?"
-and then save it, its URL will be `/post/whats-new`. If you then edit the page and change the name to `What's new today?`, the **URL wil not change**. If you wish
+Typically, you don't want the URL of a post to change, ever. Thus, once a post is saved, its URL becomes immutable. For example, if you name a post "What's New?"
+and then save it, its URL will be `/post/whats-new`. If you then edit the post and change the name to `What's new today?`, the **URL wil not change**. If you wish
 to change the URL of the post, you must copy its content, create a new post, paste the content in, and give the post a new name. You can then
 safely delete the old post.
 
@@ -77,7 +77,7 @@ If you set the meta tags, save the page, and then view source on your page, some
 The meta description is a hidden html tag which appears in the `<head>` section of a web page. If you wish, you can enter a brief description of your
 page in this section. Search engines will sometimes, but not always, use this section when previewing your page in search results.
 
-If you set the meta description, save the page, and then view source on your page, somewhere near the top you'll see a tag like this:
+If you set the meta description, save the post, and then view source on your page, somewhere near the top you'll see a tag like this:
 
 ```html
 <meta name="description" content="The official site for GoBlender, a content management system developed by Verilion Inc.">
@@ -91,7 +91,7 @@ You will also see tags like this:
 ```
 
 These are [Open Graph](https://ogp.me/) tags, which are used by many popular social media sites. As you can see, the title is taken from the **Page Title** section of
-the page's **Edit Panel**, and the description is taken from **Meta Description**. These are automatically generated.
+the post's **Edit Panel**, and the description is taken from **Meta Description**. These are automatically generated.
 
 
 ## Post Date
@@ -111,8 +111,8 @@ Almost any page on the site can be set to Active or Inactive, except for the hom
 If a page is set to inactive and a visitor to the site tries to access it (by clicking on a bookmark, a search engine result, or just guessing the URL),
 they will not be able to do so.
 
-However, if a user is logged in, and has the rights to edit pages, he or she will be able to access the page. A warning notice will be displayed at the
-top of the page, alerting you to the fact that the page is currently set to inactive.
+However, if a user is logged in, and has the rights to edit pages, he or she will be able to access the post. A warning notice will be displayed at the
+top of the post, alerting you to the fact that the post is currently set to inactive.
 
 
 ## Access Level
@@ -148,18 +148,18 @@ you can set the menu to transparent, and the menu text to dark.
 
 ## Sharing Image
 
-Sharing a page on social media is easy enough, but sometimes social media sites will not choose the image you want as a preview when the page is shared.
-By clicking on the **Sharing Image** button, you can specify what image will be used when your page is shared on social media. The image must be at least
+Sharing a post on social media is easy enough, but sometimes social media sites will not choose the image you want as a preview when the post is shared.
+By clicking on the **Sharing Image** button, you can specify what image will be used when your post is shared on social media. The image must be at least
 1200 pixels wide and 1080 pixels tall. It will be convereted to the correct dimensions for sharing on major social media sites.
 
-If you set the sharing image, save the page, and then view source on your page, somewhere near the top you'll see tags like the ones below:
+If you set the sharing image, save the post, and then view source on your post, somewhere near the top you'll see tags like the ones below:
 
 ```html
 <meta property="og:image" content="http://localhost:4000/static/site-content/page-uploads/7/fb.jpg">
 <meta name="twitter:image" content="http://localhost:4000/static/site-content/page-uploads/7/twitter.jpg">
 ```
 
-These tags are generated from the sharing imagen chosen for the page, converted to formats approrpriate for social media sites.
+These tags are generated from the sharing imagen chosen for the post, converted to formats approrpriate for social media sites.
 
 ## Javascript and CSS
 
