@@ -16,21 +16,32 @@ Regardless as to what you are editing, the process is almost exactly the same.
 
 ## Making Content Editable
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: For all of the editing functions described below, to save your work you must click on <b>Save</b> at the bottom of the screen. To cancel,
 	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editng, click on <b>Delete</b>.
 </div>
 
 In order to edit a page, news item, or blog post, simply follow these steps to enable the CMS:
 
+1. Make sure you are logged in.
 1. Navigate to the page you want to edit.
-2. Roll your mouse over the "wrench" icon, in the far right of the navigation bar at the top of the page, and click on it.
-3. Choose "Edit Page" from the drop down menu that appears (**Note**: this will say "Edit Post" for blog posts, and "Edit News Item" for news items).
+1. Roll your mouse over the "wrench" icon, in the far right of the navigation bar at the top of the page, and click on it.
+1. Choose "Edit Page" from the drop down menu that appears (**Note**: this will say "Edit Post" for blog posts, and "Edit News Item" for news items).
+
+<p align="center">
+    <img src="images/wrench.png"><br>
+    <em>The Wrench Menu</em>
+</p>
 
 Once you follow these three steps, the page will become editable.
 
 A new menu appears along the **left side of the screen**. This is the **Content Strip** which you use to insert sections or snippets into the page,
 or to use a saved template to make creating a new page a snap. These are discussed in more detail below.
+
+<p align="center">
+    <img src="images/content-strip.png"><br>
+    <em>The Content Strip</em>
+</p>
 
 
 ## Sections & Snippets
@@ -38,7 +49,7 @@ or to use a saved template to make creating a new page a snap. These are discuss
 In order to make managing your content as simple as possible, every page, blog post, and news item consists of **at least the following**: One section
 and one snippet. In other words, **every section has at least one snippet, and every page has at least one section**.
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Remember</b>: Every page must have at least one section, and every section must have at least one snippet. If you don't have a section on a page
 	and you try to add a snippet, you will not be able to do so!
 </div>
@@ -96,7 +107,7 @@ icon, or uncheck to get rid of it.
 While the pre-defined page sections are useful, in most cases you will want more control over the content of a page, and how it is presented
 to visitors. That's where snippets come in.
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	Remember: snippets do not live on the page by themselves! Every snippet must go into a section!
 </div>
 

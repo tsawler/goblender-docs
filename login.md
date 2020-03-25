@@ -5,20 +5,20 @@ Logging in to your site is a straightforward process, and can additionally be se
 
 ## Logging in with Username/Password
 
-To log in with username and password, just visit /user/login on your site. For example, if your site is https://www.mysite.com, 
+To log in with username and password, just visit /user/login on your site. For example, if your site is https://www.mysite.com,
 you would visit https://www.mysite.com/user/login
 
 Enter your email address and password, and optionally have the site "remember" your login so that you remain logged in until
-you manually log out. 
+you manually log out.
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: Do not enable "remember me" on public systems, or systems that you share with others.
 </div>
 
 ## Logging in with Two Factor Auth
 
 If you, or your system administrator, has enabled two-factor authentication for your account, you will be asked to enter
-a six digit code (one time password) after authenticating with your email address and password. 
+a six digit code (one time password) after authenticating with your email address and password.
 
 There are many tools available to manage two-factor authentication, including:
 

@@ -5,7 +5,7 @@ With GoBlender, users are simple to manage. You can add users who have no access
 
 ## Listing existing users
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
     <b>Note</b>: In order to manage users, your system administrator must have assigned you the <strong>Users Role</strong>.
 </div>
 
@@ -18,7 +18,7 @@ in the search box on the top right of the table.
 
 To view or manage a specific user, click on the user's last name, and you will be taken to the Admin User screen. From here, you can edit whatever information you wish about the user, and turn specific roles on or off.
 
-<div style="background: #fce992; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
     <b>Note</b>: If a users accesses the system through social media login, you cannot change his or her password, since the password is managed by whatever social media login he or she is using.
 </div>
 
@@ -42,7 +42,8 @@ If removing a user is urgent, you can view the user information, and then click 
 access to the system for that particular user.
 
 <p align="center">
-    <img width="269" height="267" src="images/lock-user-out.png">
+    <img width="269" height="267" src="images/lock-user-out.png"><br>
+    <em>The lockout button</em>
 </p>
 
 

@@ -46,5 +46,9 @@
 	* <a href="#/news?id=sharing-image">Sharing Image</a>
 	* <a href="#/news?id=javascript-and-css">Javascript & CSS</a>
 * [**Gallery**](gallery.md)
-* [**Users**](users.md)
+* <a href="#/users?id=managing-users"><strong>Admin Users</strong></a>
+	* <a href="#/users?id=listing-existing-users">Listing Users</a>
+	* <a href="#/users?id=editing-existing-users">Editing Users</a>
+	* <a href="#/users?id=adding-a-user">Adding Users</a>
+	* <a href="#/users?id=removing-or-disabling-users">Removing Users</a>
 * [**Preferences**](prefs.md)
