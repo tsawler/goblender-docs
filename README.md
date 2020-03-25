@@ -1,3 +1,6 @@
+<img src="images/gb-logo.svg" width="450" alt="logo">
+
+# {docsify-ignore}
 # GoBlender Documentation
 
 GoBlender is a modern web application written in [Go](https://www.golang.org).
@@ -13,8 +16,8 @@ In order to install GoBlender, you must meet the following system requirments:
 - One of:
   - [Mariadb](https://mariadb.org/) 10.3.x or later (or comparable MySQL)
   - [Postgresql](https://www.postgresql.org/) 11 or later
-- [Redis](https://redis.io/) 
-- [ffmpeg](https://ffmpeg.org/) (the version included Ubuntu 18.04 is ideal) 
+- [Redis](https://redis.io/)
+- [ffmpeg](https://ffmpeg.org/) (the version included Ubuntu 18.04 is ideal)
 
 Not strictly required, but strongly recommended:
 
