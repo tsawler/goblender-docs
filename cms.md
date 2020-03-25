@@ -18,7 +18,7 @@ Regardless as to what you are editing, the process is almost exactly the same.
 
 <div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: For all of the editing functions described below, to save your work you must click on <b>Save</b> at the bottom of the screen. To cancel,
-	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editng, click on <b>Delete</b>.
+	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editing, click on <b>Delete</b>.
 </div>
 
 In order to edit a page, news item, or blog post, simply follow these steps to enable the CMS:
