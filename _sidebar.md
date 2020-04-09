@@ -5,5 +5,6 @@
 * [**Blog Posts**](blog.md)
 * [**News**](news.md)
 * [**Gallery**](gallery.md)
+* [**Menus**](menus.md)
 * [**Users**](users.md)
 * [**Preferences**](prefs.md)
