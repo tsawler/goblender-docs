@@ -11,7 +11,7 @@ Although most of the functions used to manage content are the same, there are a 
 
 Whenever you create an new blog post or edit an existing one, the screen will change to provide you with the tools necessary to do so. As we
 saw in the [Content Management System](/#/content-management-system) section, you get a **Content Strip** along the left, and some **buttons**
-(save, cancel, etc.)along the bottom. You will also notice a new button along the right hand side of the screen: a light grey box with a "<" symbol.
+(save, cancel, etc.) along the bottom. You will also notice a new button along the right hand side of the screen: a light grey box with a "<" symbol.
 
 ![image](images/page-detail-opener.png)
 
