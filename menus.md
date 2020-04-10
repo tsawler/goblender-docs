@@ -5,7 +5,7 @@ easy, and you have complete control over the items found in the menu, and what e
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: In order to be able to manage menu items, your system administrator must have assigned you
-	the necessary roles. If you do not have the needed role, you will not have the option to modify the menu.
+	the necessary role. If you do not have the needed role, you will not have the option to modify the menu.
 </div>
 
 
@@ -28,7 +28,7 @@ This dialog is where you set all of the menu properties:
 5. Links to Page - If you want the menu item to link to a page on your site, choose the page from this list.
 6. URL - If you want the menu item to lik to a specific url, paste the url into this text box.
 
-The second tab, **Placement** allows you to drag the menu items into a specific order. Just arrange them the way that you want, and you are done.
+The second tab, **Placement** allows you to drag the menu items into a specific order. Just arrange them the way that you want, click save, and you are done.
 
 ## Adding Top Level Menu Items
 
@@ -58,7 +58,7 @@ This dialog is where you set all of the drop down menu properties:
 1. Links to Page - If you want the menu item to link to a page on your site, choose the page from this list.
 1. URL - If you want the menu item to lik to a specific url, paste the url into this text box.
 
-The second tab, **Placement** allows you to drag the menu items into a specific order. Just arrange them the way that you want, and you are done.
+The second tab, **Placement** allows you to drag the menu items into a specific order. Just arrange them the way that you want, click save, nd you are done.
 
 ## Adding Drop Down Menu Items
 
