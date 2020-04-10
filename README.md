@@ -7,5 +7,5 @@ GoBlender is a modern web application written in [Go](https://www.golang.org).
 
 This site is the official documentation for users.
 
-Use the menu to the left (expand it using the button in the bottom right if you are on a phone) 
+Use the menu to the left (expand it using the button in the bottom left if you are on a phone) 
 to explore the documentation.
