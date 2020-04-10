@@ -1,7 +1,5 @@
 # Server Requirements
 
-## System Requirements
-
 In order to install GoBlender, you must meet the following system requirments:
 
 - [Go](https://golang.org) 1.14.x or higher
