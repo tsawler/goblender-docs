@@ -4,7 +4,7 @@ GoBlender has a number of preferences that you can set for the entire site. Thes
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: In order to be able to manage preferences, your system administrator must have assigned you
-	the necessary role. If you do not have the needed role, you will not have the option to modify the menu.
+	the necessary role.
 </div>
 
 
