@@ -9,7 +9,7 @@ To log in with username and password, just visit /user/login on your site. For e
 you would visit https://www.mysite.com/user/login
 
 Enter your email address and password, and optionally have the site "remember" your login so that you remain logged in until
-you manually log out.
+you log out manually.
 
 <div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Note</b>: Do not enable "remember me" on public systems, or systems that you share with others.

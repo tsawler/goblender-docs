@@ -14,6 +14,15 @@ Managing pages on the site is easy. Every page on a GoBlender site is managed th
 Note that for the purposes of this guide, we draw a distinction between **pages**, **blog posts**, **news items**, and **calendar events**.
 Although most of the functions used to manage content are the same, there are a few differences to be found among these four kinds of content.
 
+Watch the video below to see a basic page editing session, or read one for more detail.
+
+
+<video width="400" controls>
+  <source src="videos/basic-page.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+
 Whenever you create an new page or edit an existing one, the screen will change to provide you with the tools necessary to do so. As we
 saw in the [Content Management System](/#/content-management-system) section, you get a **Content Strip** along the left, and some **buttons**
 (save, cancel, etc.)along the bottom. You will also notice a new button along the right hand side of the screen: a light grey box with a "<" symbol.
