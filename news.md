@@ -1,7 +1,7 @@
 # News
 
-<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
-	<b>Note</b>: This section assumes that you are already familiar with the <a href="/#/cms?id=content-management-system">Content Management System</a>
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal; margin-bottom: 1em;">
+	<b>Note</b>: This section assumes that you are already familiar with the <a href="/#/cms">Content Management System</a>
 </div>
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
