@@ -17,10 +17,14 @@ Although most of the functions used to manage content are the same, there are a 
 Watch the video below to see a basic page editing session, or read one for more detail.
 
 
+<div style="width: 100%;">
+	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
 <video width="400" controls>
   <source src="videos/basic-page.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
+</div>
+</div>
 
 
 Whenever you create an new page or edit an existing one, the screen will change to provide you with the tools necessary to do so. As we
