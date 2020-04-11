@@ -21,16 +21,25 @@ Regardless as to what you are editing, the process is almost exactly the same.
 	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editing, click on <b>Delete</b>.
 </div>
 
+
 In order to edit a page, news item, or blog post, simply follow these steps to enable the CMS:
+
 
 1. Make sure you are logged in.
 1. Navigate to the page you want to edit.
 1. Roll your mouse over the "wrench" icon, in the far right of the navigation bar at the top of the page, and click on it.
 1. Choose "Edit Page" from the drop down menu that appears (**Note**: this will say "Edit Post" for blog posts, and "Edit News Item" for news items).
 
-![image](images/wrench.png)
+<div style="width: 100%;">
+	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
+		<video width="400" controls>
+		  <source src="videos/making-content-editable.mp4" type="video/mp4">
+		  Your browser does not support HTML5 video.
+		</video>
+	</div>
+</div>
 
-Once you follow these three steps, the page will become editable.
+Once you follow these steps, the page will become editable.
 
 A new menu appears along the **left side of the screen**. This is the **Content Strip** which you use to insert sections or snippets into the page,
 or to use a saved template to make creating a new page a snap. These are discussed in more detail below.
@@ -77,6 +86,16 @@ Specifically, you can:
 * Change the positioning of the content within the section
 * Make the text light or dark
 * Manage transparency levels
+
+<div style="width: 100%;">
+	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
+		<video width="400" controls>
+		  <source src="videos/sections.mp4" type="video/mp4">
+		  Your browser does not support HTML5 video.
+		</video>
+	</div>
+</div>
+
 
 The other icon, **Cover Settings**, allows you to set a background image for the section. Clicking on the **Cover Settings** icon allows you to
 browse your system for an image to use as a background for the current section.
@@ -126,6 +145,16 @@ whenever you have it in a place where it can be dropped. Once you have it where 
 page.
 
 Of course, the default content of a snippet is not what you want, but you can change images, text, video, maps, etc. quickly and easily.
+
+<div style="width: 100%;">
+	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
+		<video width="400" controls>
+		  <source src="videos/snippets.mp4" type="video/mp4">
+		  Your browser does not support HTML5 video.
+		</video>
+	</div>
+</div>
+
 
 #### Changing text in a snippet
 
