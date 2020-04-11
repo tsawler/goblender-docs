@@ -21,6 +21,15 @@ Regardless as to what you are editing, the process is almost exactly the same.
 	and return to the last saved state of the page, click <b>Cancel</b>, and to delete a page, post, or news item while editing, click on <b>Delete</b>.
 </div>
 
+<div style="width: 100%;">
+	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
+<video width="400" controls>
+  <source src="videos/making-content-editable.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+</div>
+
 In order to edit a page, news item, or blog post, simply follow these steps to enable the CMS:
 
 1. Make sure you are logged in.
