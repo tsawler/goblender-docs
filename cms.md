@@ -33,7 +33,7 @@ In order to edit a page, news item, or blog post, simply follow these steps to e
 <div style="width: 100%;">
 	<div  style="width: 400px; margin-left: auto; margin-right: auto;">
 		<video width="400" controls>
-		  <source src="./videos/making-content-editable.mp4" type="video/mp4">
+		  <source src="videos/making-content-editable.mp4" type="video/mp4">
 		  Your browser does not support HTML5 video.
 		</video>
 	</div>
