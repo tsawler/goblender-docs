@@ -7,6 +7,7 @@
 * [**Gallery**](gallery.md)
 * [**Calendar**](calendar.md)
 * [**Menus**](menus.md)
+* [**Forms**](forms.md)
 * [**Users**](users.md)
 * [**Preferences**](prefs.md)
 * [**Server Requirements**](server-requirements.md)
