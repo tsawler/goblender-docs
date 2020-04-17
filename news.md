@@ -21,7 +21,7 @@ saw in the [Content Management System](/#/content-management-system) section, yo
 If you click on this button, called the **Edit Panel**, a pane will slide out from the right, revealing the basic news item details. Here is where you can
 do the following:
 
-## Set the news item name
+### Set the news item name
 
 The news item name can be whatever you wish, but is limited to 255 characters in length. Whatever you type here will be converted to a web-friendly
 URL, using the following logig:
@@ -34,28 +34,28 @@ So, if you were to name your news item "Company ABC develops a new product: The 
 `/news-item/company-abc-develops-a-new-product-the-miracle-toaster`. Note that all news items start with `/news-item`, and that this is added automatically.
 You should not make that part of the title.
 
-### Duplicate news item names
+#### Duplicate news item names
 
 Sometimes you may give two or more news items the same name, either on purpose or inadvertently. In that case, the generated URL for the news item will have a number appended to it, so that there are no duplicate URLs on the site. For example, if you create two news items named "About", the first would have the URL of
 `/news-item/about`, and the second would be given `/news-item/about-1`. This is an automatic process.
 
-### Changing the URL of a news item
+#### Changing the URL of a news item
 
 Typically, you don't want the URL of a page to change, ever. Thus, once a page is saved, its URL becomes immutable. For example, if you name a news item "What's New?" and then save it, its URL will be `/news-item/whats-new`. If you then edit the news item and change the name to `What's new today?`, the **URL wil not change**. If you wish to change the URL of the news item, you must copy its content, create a new news item, paste the content in, and give the news item a new name. You can then safely delete the old news item.
 
-## Preview Image
+### Preview Image
 
 Just below the title section of the **Edit Panel** you'll see a light grey square, and below that is a button labelled **Preview Image**. This allows you to specify what preview image you would like to use for the news item. The image is used on the `/news` page of the site, where news items are listed.
 
 In order to specify a specific preview image, click the button, browse for the image, and upload it. It will auotmatically be converted to the proper
 size for you.
 
-## Preview Text
+### Preview Text
 
 Just as you can specify what image is used on the `/news` page for previewing a post, you can also specify the preview text. If this is left empty,
 the first few hundred characters of the news item will be used instead. Just click on the button to enter or modify the preview text.
 
-## Meta Keywords
+### Meta Keywords
 
 Meta keywords are hidden tags which appear in the `<head>` section of a web page. They are largely ignored by search engines these days, but
 if you wish, you can enter a comma-separated list of keywords related to the page content.
@@ -66,7 +66,7 @@ If you set the meta tags, save the page, and then view source on your page, some
 <meta name="keywords" content="goblender, verilion, cms">
 ```
 
-## Meta Description
+### Meta Description
 
 The meta description is a hidden html tag which appears in the `<head>` section of a web page. If you wish, you can enter a brief description of your
 page in this section. Search engines will sometimes, but not always, use this section when previewing your page in search results.
@@ -88,7 +88,7 @@ These are [Open Graph](https://ogp.me/) tags, which are used by many popular soc
 the page's **Edit Panel**, and the description is taken from **Meta Description**.  These are automatically generated.
 
 
-## News Date
+### News Date
 
 Set the date for your news item by clicking on this field and choosing a date from the calendar.
 
@@ -98,7 +98,7 @@ Set the date for your news item by clicking on this field and choosing a date fr
 
 
 
-## News Status
+### News Status
 
 Almost any page on the site can be set to Active or Inactive, except for the home page, which must, for obvious reasons, always be active.
 
@@ -109,7 +109,7 @@ However, if a user is logged in, and has the rights to edit pages, he or she wil
 top of the page, alerting you to the fact that the page is currently set to inactive.
 
 
-## Access Level
+### Access Level
 
 Almost any page on the site can be given an access level, except for the home page, which must, for obvious reasons, always be accessible to the public.
 
@@ -120,7 +120,7 @@ There are three possible access levels:
 3. Administrators Only - only logged in users who are site administrators can see the post
 
 
-## Menu Settings
+### Menu Settings
 
 Menu settings allows you to manage the way that the top navigation menu appears **for a specific page**.
 
@@ -140,7 +140,7 @@ you can set the menu to transparent, and the menu text to dark.
 </div>
 
 
-## Sharing Image
+### Sharing Image
 
 Sharing a page on social media is easy enough, but sometimes social media sites will not choose the image you want as a preview when the page is shared.
 By clicking on the **Sharing Image** button, you can specify what image will be used when your page is shared on social media. The image must be at least
@@ -155,7 +155,7 @@ If you set the sharing image, save the page, and then view source on your page, 
 
 These tags are generated from the sharing imagen chosen for the page, converted to formats approrpriate for social media sites.
 
-## Javascript and CSS
+### Javascript and CSS
 
 At the very bottom of the **Edit Panel** are two icons: one for JavaScript, and one of CSS. You can enter **page specific** JS or CSS here. Note that
 the JS and CSS will only be applied to the current page.
