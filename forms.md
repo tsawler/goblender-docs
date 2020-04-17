@@ -77,9 +77,16 @@ you wish to use, and it will be appended to the bottom of the current page, in i
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Important</b>: If you make changes to a form that is already in use on your site, you <strong>must replace the existing form with the updated
-	version.</strong> To do so, navigate to the page where the form exists, deleted the entire section with the form, and then re-add it by 
+	version.</strong> To do so, navigate to the page where the form exists, delete the entire section with the form, and then re-add it by 
 	following the steps above.
 </div>
+
+
+## Viewing Form Data
+
+If your forms write to the database, then you are able to view responses at any time. To do so, navigate to the dashboard, and choose Forms->Form 
+Responses. All of your forms are listed on the resulting page, as well as the total number of associated responses. If your form has more than zero
+responses, then you can click on its name to view the indvidual responses, export all responses to Excel, and delete some or all of the responses. 
 
 
 
