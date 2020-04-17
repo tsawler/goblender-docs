@@ -77,7 +77,7 @@ you wish to use, and it will be appended to the bottom of the current page, in i
 
 <div style="background: #ffcccb; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
 	<b>Important</b>: If you make changes to a form that is already in use on your site, you <strong>must replace the existing form with the updated
-	version.</strong> To do so, navigate to the page where the form exists, deleted the entire section with the form, and then re-add it by 
+	version.</strong> To do so, navigate to the page where the form exists, delete the entire section with the form, and then re-add it by 
 	following the steps above.
 </div>
 
