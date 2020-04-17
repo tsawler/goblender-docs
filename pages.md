@@ -14,7 +14,7 @@ Managing pages on the site is easy. Every page on a GoBlender site is managed th
 Note that for the purposes of this guide, we draw a distinction between **pages**, **blog posts**, **news items**, and **calendar events**.
 Although most of the functions used to manage content are the same, there are a few differences to be found among these four kinds of content.
 
-Watch the video below to see a basic page editing session, or read one for more detail.
+Watch the video below to see a basic page editing session, or read on for more detail.
 
 
 <div style="width: 100%;">
