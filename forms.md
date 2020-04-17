@@ -82,5 +82,12 @@ you wish to use, and it will be appended to the bottom of the current page, in i
 </div>
 
 
+## Viewing Form Data
+
+If your forms write to the database, then you are able to view responses at any time. To do so, navigate to the dashboard, and choose Forms->Form 
+Responses. All of your forms are listed on the resulting page, as well as the total number of associated responses. If your form has more than zero
+responses, then you can click on its name to view the indvidual responses, export all responses to Excel, and delete some or all of the responses. 
+
+
 
 
