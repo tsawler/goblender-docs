@@ -1,4 +1,4 @@
-# System Preferences
+````# System Preferences
 
 GoBlender has a number of preferences that you can set for the entire site. These are managed under the Dashboard -> Preferences.
 
@@ -8,7 +8,7 @@ GoBlender has a number of preferences that you can set for the entire site. Thes
 </div>
 
 
-The Preferenceas menu on the left side of the dashboard has nine items:
+The Preferences menu on the left side of the dashboard has nine items:
 
 1. General preferences - these are general settings for the entire site, and include mail server settings, fonts and colours, and many other options. 
 1. Blog Preferences - settings for the blog and blog posts.
