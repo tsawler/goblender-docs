@@ -34,9 +34,9 @@ From the menu on the left, choose **Admin Users** -> **Add User**. This takes yo
 you wish to give to the user, and save those changes.
 
 
-## Removing or disabling users
+## Disabling or locking users out
 
-Because the audit trail built into GoBlender depends on user information, you cannot actually delete a user from the system. You can, however, disable access by setting the user to inactive.
+You can disable access by setting the user to inactive. 
 
 If removing a user is urgent, you can view the user information, and then click on the red **Log this user out and set inactive**, which will immediately (even if the user is currently logged in) remove all
 access to the system for that particular user.
@@ -48,3 +48,8 @@ access to the system for that particular user.
 
 
 Note that you cannot, for obvious reasons, lock yourself out of the system, so the button to do so **does not appear** when you are looking at **your own account**.
+
+
+## Deleting a user
+
+To delete a user, simply click the red "Delete" button, and answer yes to the confirmation dialog that appears.
