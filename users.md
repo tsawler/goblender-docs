@@ -19,7 +19,7 @@ in the search box on the top right of the table.
 To view or manage a specific user, click on the user's last name, and you will be taken to the Admin User screen. From here, you can edit whatever information you wish about the user, and turn specific roles on or off.
 
 <div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
-    <b>Note</b>: If a users accesses the system through social media login, you cannot change his or her password, since the password is managed by whatever social media login he or she is using.
+    <b>Note</b>: If a user accesses the system through social media login, you cannot change his or her password, since the password is managed by whatever social media login he or she is using.
 </div>
 
 Be sure to save your changes.
@@ -46,11 +46,15 @@ access to the system for that particular user.
     <em>The lockout button</em>
 </p>
 
-
-Note that you cannot, for obvious reasons, lock yourself out of the system, so the button to do so **does not appear** when you are looking at **your own account**.
-
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+    <b>Note</b>: you cannot, for obvious reasons, lock yourself out of the system, so the button to do so <b>does not appear</b> when you are looking at <b>your own account</b>.
+</div>
 
 ## Deleting a user
 
-To delete a user, simply click the red "Delete" button, and answer yes to the confirmation dialog that appears. Note that super administrators have the ability
-to "undelete" a user, if necessary.
+To delete a user, simply click the red "Delete" button, and answer yes to the confirmation dialog that appears. 
+
+<div style="background: #fff3cd; padding: 1em; border-radius: 1em; text-align: left; font-weight: normal;">
+    <b>Note</b>: Super administrators have the ability
+                 to "undelete" a user, if necessary.
+</div>
