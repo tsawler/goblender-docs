@@ -52,4 +52,5 @@ Note that you cannot, for obvious reasons, lock yourself out of the system, so t
 
 ## Deleting a user
 
-To delete a user, simply click the red "Delete" button, and answer yes to the confirmation dialog that appears.
+To delete a user, simply click the red "Delete" button, and answer yes to the confirmation dialog that appears. Note that super administrators have the ability
+to "undelete" a user, if necessary.
